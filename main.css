@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin: auto;
+    padding: 250px 0;
+    width: 50%;
+}
+
+main {
+    border-radius: 50px;
+    background: #f3c053;
+    box-shadow:  20px 20px 60px #cfa347, 
+             -20px -20px 60px #ffdd5f;
+}
